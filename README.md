@@ -1,0 +1,2 @@
+# Spotify-Dashboard
+Through this dashboard, I am trying to analyze Spotify data to display the popular artists and their respective tracks based on the number of streams they had over the week. We can also filter the artist based on the country they were streamed the most.  In this project, I have learned to use the web object functionality by using open source Spotify API and adding the track’s URL to play the music on selecting the track of the particular artist.
